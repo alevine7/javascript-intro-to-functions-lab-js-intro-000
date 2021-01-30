@@ -22,8 +22,8 @@ function logWhisper(string) {
     var lowercase = string.toLowerCase();
     var uppercase = string.toUpperCase();
     if (lowercase === string) {
-    //   return "I can\'t hear you!"
-    // }
+      return "I can\'t hear you!"
+    }
     // if (string.toUpperCase()) {
     //   return "YES INDEED!"
     // }

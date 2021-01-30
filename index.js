@@ -22,7 +22,7 @@ function logWhisper(string) {
         return "I can\'t hear you!"
     }
   }
-  
+
   function sayHiToGrandma(string) {
     var lowercase = string.toLowerCase;
     var uppercase = string.toUpperCase;

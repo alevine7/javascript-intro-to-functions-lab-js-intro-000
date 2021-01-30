@@ -37,7 +37,7 @@ function logWhisper(string) {
     if (string.toLowerCase()) {
       return "I can\'t hear you!"
     }
-    if (return string.toUpperCase()) {
+    if (string.toUpperCase()) {
       return "YES INDEED!"
     }
   }
